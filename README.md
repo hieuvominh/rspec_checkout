@@ -1,2 +1,2 @@
 # rspec_checkout
-Example repository about ruby TDD using Rspec
+##Example repository about ruby TDD using Rspec
